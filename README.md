@@ -1,2 +1,0 @@
-# MarsRover
-Udacity Nanodegree Project
