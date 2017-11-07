@@ -29,7 +29,7 @@ def color_thresh1(img, rgb_thresh=(100, 100, 10)):
     # Return the binary image
     return color_select
 ```
-![Rock2](https://github.com/GlennPatrickMurphy/MarsRover/tree/master/code/photos/example_rock2.png)
+![Rock2](https://github.com/GlennPatrickMurphy/MarsRover/blob/master/code/photos/example_rock2.png)
 
 ![Rock1](https://github.com/GlennPatrickMurphy/MarsRover/tree/master/code/photos/warped_example1.png)
 
